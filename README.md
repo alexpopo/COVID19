@@ -4,7 +4,7 @@
 
 美(没)羊羊、杨过、杨康、王重阳，于己一丝温暖。
 
-![SARS-CoV-2在人体和大脑中的分布、定量和复制](https://github.com/alexpopo/COVID19/tree/main/data/img/fig_1.png)
+![SARS-CoV-2在人体和大脑中的分布、定量和复制](https://github.com/alexpopo/COVID19/raw/main/data/img/fig_1.png)
 
 
 ### 环境安装

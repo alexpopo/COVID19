@@ -8,6 +8,7 @@
 
 
 ### 环境安装
+
 词云图是压仓库的东西，翻出来用一下。
 
 python-v3.6.13
@@ -21,7 +22,16 @@ pillow-v8.3.2
 numpy-v1.19.5
 
 
-### 引用资料
+### 简单翻译(document文件夹)
+
+尸检时SARS-CoV-2感染并持续存在于人体和脑部
+
+SARSCoV-2 BQ和XBB亚变异株增强的抗体逃逸特性
+
+什么是免疫逃逸？其实这个现象并不罕见
+
+
+### 原文资料
 [SARS-CoV-2 infection and persistence in the human body and brain at autopsy][refs. 1]
 
 [Alarming antibody evasion properties of rising SARS-CoV-2 BQ and XBB subvariants][refs. 2]
